@@ -1,0 +1,103 @@
+h1 {
+	text-align: center;
+	color: blue;
+	font-size: 70px;
+}
+
+h4 {
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+
+
+.form {
+	width: 450px;
+	position: center;
+	border-radius: 10px;
+	height:280px;
+	background: rgba(255, 255, 255); 
+	box-shadow:  0 10px 9px 0 rgba(74, 50, 30, .96);
+	transition: all ease-in-out .4s;
+	padding: 25px;
+	margin-left: 412px;
+}
+
+
+
+
+.form input {
+	width: 350px;
+	height: 35px;
+	border-right: none;
+	font-size: 15px;
+	margin-top: 8px;
+	border-radius: 8px;
+	font-family: sans-serif;
+	margin-left: 40px
+}
+
+
+
+.btnn {
+	width: 350px;
+	height: 40px;
+	color: white;
+	background: blue;
+	border: none;
+	margin-top: 8px;
+	font-size: 18px;
+	border-radius: 8px;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+
+p {
+	text-align: center;
+	columns: green;
+}
+
+
+hr {
+	color: black;
+}
+
+
+.bmw {
+	width: 200px;
+	height: 40px;
+	color: white;
+	background: green;
+	border: none;
+	margin-top: 10px;
+	font-size: 18px;
+	border-radius: 8px;
+	cursor: pointer;
+	margin-left: 120px;
+}
+
+
+.six {
+	font-size: 20px;
+	font: bolder;
+}
+
+
+
+
+@media screen (max-width: 300px) {
+h1 {
+	color: red;
+	font-size: 1.5rem;
+}
+}
+
+
+
+
+
+
+
+
+	
